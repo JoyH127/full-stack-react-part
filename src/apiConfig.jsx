@@ -1,7 +1,7 @@
 let apiUrl;
 const apiUrls = {
-  production: "https://sei-items-api.herokuapp.com/api",
-  development: "http://localhost:3000/api",
+  production: "https://full-stack-lession.herokuapp.com/api",
+  development: "https://full-stack-lession.herokuapp.com/api",
 };
 
 if (window.location.hostname === "localhost") {
